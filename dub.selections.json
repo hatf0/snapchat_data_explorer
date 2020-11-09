@@ -1,0 +1,12 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"asdf": "0.6.7",
+		"command": "0.0.7",
+		"d-graphviz": "0.0.3",
+		"linenoise": "1.1.0+1.0.0",
+		"mir-algorithm": "3.9.47",
+		"mir-core": "1.1.14",
+		"pegged": "0.4.4"
+	}
+}
